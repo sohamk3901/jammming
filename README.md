@@ -6,3 +6,4 @@ This Application can be used to:
 2. Group these songs to create playlists with custom names.
 3. Save this playlist into the user's Spotify account.
 
+Deployment: https://sohamk3901.github.io/jammming
